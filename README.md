@@ -100,3 +100,5 @@ Chart.js integration for real data visualization
 Dark Mode with localStorage persistence
 
 Covers all aspects of student life (grades, courses, assignments, schedule, peers, settings) in one place
+
+nikhilmali27103@gmail.com
