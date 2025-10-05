@@ -19,6 +19,8 @@ It provides students and teachers with insights into grades, attendance, assignm
 
 🖼️ Screenshots
 Dashboard
+<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/fe42340b-9015-4578-ac66-02ad72bb8799" />
+
 
 Dark Mode
 
